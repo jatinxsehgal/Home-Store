@@ -1,0 +1,126 @@
+/* neons fonts */
+
+@font-face {
+    font-family: hello;
+    src: url(../assets/image/Fonts/Hello.woff);
+}
+
+@font-face {
+    font-family: Baletta;
+    src: url(../assets/image/Fonts/Baletta-2OwRv.woff);
+}
+
+@font-face {
+    font-family: Bastinson;
+    src: url(../assets/image/Fonts/Bastinsondemo-MV57n.woff);
+}
+
+@font-face {
+    font-family: Billock;
+    src: url(../assets/image/Fonts/BillockRegular-7BMGR.woff);
+}
+
+@font-face {
+    font-family: Carry;
+    src: url(../assets/image/Fonts/Carry-You.woff);
+}
+
+@font-face {
+    font-family: Carry;
+    src: url(../assets/image/Fonts/Carry-You.woff);
+}
+
+
+
+@font-face {
+    font-family: Sweetie;
+    src: url(../assets/image/Fonts/Hello\ Sweetie.woff);
+}
+
+
+@font-face {
+    font-family: Korian;
+    src: url(../assets/image/Fonts/Korian.woff2);
+}
+
+@font-face {
+    font-family: Neoncity;
+    src: url(../assets/image/Fonts/NeoncityScript-K77Je.woff);
+}
+
+@font-face {
+    font-family: Raleway;
+    src: url(../assets/image/Fonts/Raleway-ExtraLight.woff);
+}
+
+@font-face {
+    font-family: Sandwich;
+    src: url(../assets/image/Fonts/Sandwich\ Christmas.woff);
+}
+
+@font-face {
+    font-family: amanda;
+    src: url(../assets/image/Fonts/amanda.woff);
+}
+
+@font-face {
+    font-family: NorthShore;
+    src: url(../assets/image/Fonts/North\ Shore\ Personal\ Use.woff);
+}
+
+@font-face {
+    font-family: Mayfair;
+    src: url(../assets/image/Fonts/Mayfair\ Regular.woff);
+}
+
+
+
+/* Noraml Fonts */
+
+@font-face {
+    font-family: coolvetica;
+    src: url(../assets/image/Fonts/coolvetica.woff2);
+}
+
+
+@font-face {
+    font-family: Harmonia;
+    src: url(../assets/image/Fonts/Harmonia\ Sans.woff);
+}
+
+@font-face {
+    font-family: Devanagari;
+    src: url(../assets/image/Fonts/Devanagari.woff);
+}
+
+
+@font-face {
+    font-family: JosefinSans;
+    src: url(../assets/image/Fonts/JosefinSans-Bold.woff);
+}
+
+
+@font-face {
+    font-family: 'Kiprhany';
+    src: url(../assets/image/Fonts/Kiprhany\ DEMO\ VERSION.woff);
+}
+
+@font-face {
+    font-family: Prabhki;
+    src: url(../assets/image/Fonts/Prabhki.woff);
+}
+
+@font-face {
+    font-family: Raleway;
+    src: url(../assets/image/Fonts/Raleway-ExtraLight.woff);
+}
+
+
+
+
+/* Main Fonts */
+
+@font-face {
+    font-family: red_rose;
+    src: url(../assets/image/Fonts/red_rose.woff2);
+}

@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'red_rose', sans-serif;
+}
+
+body {
+    background: #fff;
+    height: 100%;
+    width: 100%;
+}
+
+
+.user_form {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+/* gmail_login_btn */
+
+.gmail_login_btn {
+    padding: 5px 10px;
+    font-size: 15px;
+    background: #fff;
+    border: 1px solid;
+    color: #808080;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    box-shadow: 2px 2px 5px rgb(116, 116, 116);
+}
+
+.gmail_login_btn img {
+    width: 30px;
+    height: 30px;
+}
+
+
+
+
+/* notify */
+.notify {
+    display: block;
+    width: 300px;
+    position: absolute;
+    margin: 0 auto;
+    top: 20%;
+    background: green;
+    text-align: center;
+    color: #fff;
+}
+
+/* admin_page */
+
+
+
+.admin_page {
+
+    display: none;
+}
+
+.admin_sec {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+
+}
+
+
+.admin_sec button {
+    padding: 5px 20px;
+    background: #111;
+    color: #fff;
+    border: 1px solid #111;
+    cursor: pointer;
+    transition: .2s ease-in;
+
+}
+
+.admin_sec button:hover {
+    background: transparent;
+    border: 1px solid;
+    color: #111;
+}
+
+
+
+
+/* add show class */
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}

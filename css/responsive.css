@@ -1,0 +1,388 @@
+@media screen and (max-width: 600px) {
+
+    .product h2,
+    #moral h2 {
+        font-size: 30px;
+    }
+
+    .product-bottom,
+    .moral-bottom {
+        padding: 20px 0;
+    }
+
+    .product-bottom h5,
+    .moral-bottom h5,
+    .Neon-section h3 {
+        font-size: 1.1rem;
+    }
+
+    .product-bottom h3,
+    .moral-bottom h3 {
+        font-size: 1.3rem;
+        font-weight: 600;
+    }
+
+
+    .feature-text h1 {
+        font-size: 25px;
+    }
+
+    .single-box {
+        margin-bottom: 50px;
+        text-align: center;
+    }
+
+    .single-box img {
+        width: auto;
+        height: 60px;
+    }
+
+    .single-box ul li a {
+        font-size: 1rem;
+    }
+
+    .single-box .card-area img {
+        width: 90%;
+        margin-top: 10px;
+    }
+
+    .single-box h2 {
+        font-size: 1.8rem;
+    }
+
+    .Social img {
+        width: 30px;
+        height: 30px;
+    }
+
+    .form-control,
+    #basic-addon2 {
+        margin-top: 10px;
+    }
+
+    .output-container .switch {
+        position: absolute;
+        top: -24px;
+        right: 0;
+        left: -10px;
+    }
+
+    .output-container .outputtext {
+        text-align: center;
+        font-size: 2rem;
+        left: 0;
+        right: 15px;
+        top: -35px;
+    }
+
+    .main-conatiner {
+        width: 100%;
+    }
+
+    .scroll-section {
+        width: 100%;
+    }
+
+    .neon-headingText h2 {
+        font-size: 1.9rem;
+    }
+
+    .input-wrapper .input-box {
+        width: 100%;
+    }
+
+    .input-box input {
+        width: 90%;
+    }
+
+    .font-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        column-gap: 1rem;
+        row-gap: 1rem;
+        margin-bottom: 15px;
+    }
+
+    .font-content .fontButton {
+        padding: 0.7rem 3rem;
+        font-size: 0.8rem;
+        font-weight: 600;
+    }
+
+    .color-wrapper h5,
+    .fonts-wrapper h5,
+    .size-coustimize h5,
+    .payment-method h5,
+    .background-section h5,
+    .faq-section h2 {
+        font-size: 1.6rem;
+        padding-block: 10px;
+    }
+
+    .size-content {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        align-items: center;
+        gap: 1rem;
+    }
+
+    .card-box {
+        width: 100%;
+        padding-block: 10px;
+        height: 100%;
+    }
+
+    .boxOne p,
+    .boxTwo p {
+        font-size: 1rem;
+        font-weight: 600;
+    }
+
+    .wirless-coustimize h5 {
+        padding-block: 20px;
+    }
+
+    .One h1 {
+        padding: 10px;
+    }
+
+    .grid-card {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .grid-contain {
+        width: 100%;
+        height: 100%;
+    }
+
+    .buttons {
+        flex-direction: column;
+    }
+
+    .buttons .cartBtn,
+    .buttons .OrderBtn {
+        width: 100%;
+        margin-block: 5px;
+    }
+
+    .input-content {
+        padding-block: 10px;
+    }
+
+    .faq-section {
+        width: 100%;
+    }
+
+    .accordion {
+        width: 100%;
+        margin-block: 20px;
+    }
+
+    .product-value {
+        left: 68%;
+        bottom: 8%;
+        height: 20px;
+        width: 20px;
+        background: #e12727;
+        border-radius: 50%;
+    }
+
+    .navbar-item .icons {
+        font-size: 2rem;
+        text-align: center;
+    }
+
+    .nav-item a {
+        font-size: 1.2rem;
+        text-align: center;
+    }
+
+    .navbar .search-form {
+        right: -140%;
+    }
+
+    .navbar .search-form input {
+        width: 300px;
+        height: 100%;
+    }
+
+    .title-text{
+        text-align: center;
+        font-size: 1.5rem;
+    }
+
+    .main-heading h2 {
+        line-height: 1.5;
+        font-size: 1.8rem;
+    }
+
+    .main-heading p {
+        font-size: 1rem;
+    }
+
+    .main-image img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .payment-content {
+        padding: 20px 10px;
+    }
+
+    .payment-text {
+        font-size: 1.4rem;
+        padding: 20px 0;
+    }
+
+    .payment-process {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .payment-process .line::after{
+        content: '';
+        position: absolute;
+        left: 50%;
+        width: 4px;
+        top: 20%;
+        right: 50%;
+        height: 90px;
+    }
+
+    .payment-process .line2::after{
+        content: '';
+        position: absolute;
+        left: 50%;
+        width: 4px;
+        top: 60%;
+        right: 50%;
+        height: 90px;
+    }
+
+    .neon-product .title h2 {
+        font-size: 1.5rem;
+    }
+    
+}
+
+
+
+@media screen and (max-width: 991px) {
+    .single-box {
+        margin-bottom: 50px;
+    }
+
+    .product h2,
+    #moral h2,
+    .Neon-section h3 {
+        font-size: 35px;
+        font-weight: 700;
+    }
+
+    form {
+        padding: 0px 40px;
+    }
+
+    .search-overlay .bx {
+        top: 100px;
+        right: 120px;
+    }
+
+    .main-conatiner {
+        width: 100%;
+    }
+
+    .color-wrapper h5,
+    .fonts-wrapper h5,
+    .size-coustimize h5,
+    .payment-method h5,
+    .background-section h5,
+    .faq-section h2 {
+        font-size: 2rem;
+        padding-block: 10px;
+    }
+
+    .scroll-section {
+        width: 100%;
+    }
+
+    .neon-headingText h2 {
+        font-size: 1.9rem;
+        text-align: center;
+    }
+
+    .title-head h2 {
+           text-align: center;
+           font-size: 1.8rem;
+    }
+
+    .contact-contain {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .contact-content {
+        padding: 0 10px;
+    }
+
+    .contact-form {
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .product-wrapper {
+        flex-direction: column;
+        height: auto;
+        padding: 5% 0;
+    }
+
+    .rating-star{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .output-container .switch {
+        position: absolute;
+        top: -24px;
+        right: 0;
+        left: 0px;
+    }
+
+    .input-wrapper .input-box {
+        width: 100%;
+        height: 100px;
+    }
+
+    .input-box input {
+        width: 100%;
+        height: 100%;
+    }
+
+    .payment-process {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .payment-process .line::after{
+        content: '';
+        position: absolute;
+        left: 50%;
+        width: 4px;
+        top: 20%;
+        right: 50%;
+        height: 90px;
+    }
+
+    .payment-process .line2::after{
+        content: '';
+        position: absolute;
+        left: 50%;
+        width: 4px;
+        top: 60%;
+        right: 50%;
+        height: 90px;
+    }
+}
+
+
